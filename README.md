@@ -1,6 +1,6 @@
-EXCEL Project - Retail_Sales_Data
+# _EXCEL Project - Retail_Sales_Data_
 
-Data Formatting:
+## _Data Formatting:_
 
  •	Applied Short Date format to the Date column for consistency and readability.
 
@@ -8,7 +8,7 @@ Data Formatting:
 
  •	Renamed the worksheet to Retail_Sales_Raw_Data to reflect its contents more clearly.
 
-Created ID_Salesperson column:
+## _Created ID_Salesperson column:_
 
  •	Added a column ID_salesperson in the Retail_Sales table
  •	Added a new column, ID_Salesperson, to the Retail_Sales table.
