@@ -4,8 +4,6 @@ This project presents a Retail Sales Performance Dashboard built entirely in Mic
 The dashboard is designed to support data-driven decision-making for sales managers and stakeholders by demonstrating how Excel’s powerful analytics and visualization tools can be effectively applied in real-world business scenarios.
 
 
-
-
 ### ✅ Step 1: Initial Data Preparation
 Before diving into analysis and visualization, the raw dataset underwent structured preparation to ensure accuracy and usability:
 
@@ -76,7 +74,9 @@ This makes the dashboard highly interactive and user-friendly.
 ---
 ### 🖥️ Final Output: Interactive Dashboard
 
-![image](https://github.com/user-attachments/assets/8eb4a2d8-d128-4726-87ab-84d6f592d55c)
+
+https://github.com/user-attachments/assets/fec986c6-5c57-4a65-89fe-66165f67996f
+
 
 The final dashboard allows users to explore 2024 sales performance by month, region, product category, and salesperson (via ID). Key metrics displayed include:
 
