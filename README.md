@@ -1,7 +1,7 @@
 # 📊 Retail Sales Performance Dashboard (Excel)
-This project presents a Retail Sales Performance Dashboard built entirely in Microsoft Excel, using a dataset of over 200 transactions from a fictional retail company throughout the year 2024. The objective is to provide clear, interactive insights into key sales metrics such as total sales, regional trends, product performance, and monthly patterns.
+This self-initiated project was developed as part of my personal learning journey to strengthen my data analysis and visualisation skills using Microsoft Excel. Working with a fictional dataset of over 200 retail transactions from 2024, I designed a dynamic, interactive dashboard to explore key sales metrics such as total revenue, regional trends, monthly sales patterns, and product performance.
 
-The dashboard is designed to support data-driven decision-making for sales managers and stakeholders by demonstrating how Excel’s powerful analytics and visualization tools can be effectively applied in real-world business scenarios.
+The goal of this project was to practice core Excel functionalities—such as data cleaning, formula application, PivotTables, and dashboard design—while simulating a real-world business scenario that supports data-driven decision-making. The final dashboard offers a clear, professional layout with slicers and charts to make insights easily accessible for stakeholders..
 
 
 ### ✅ Step 1: Initial Data Preparation
@@ -34,7 +34,6 @@ Used the XLOOKUP function to link names from the main dataset to their correspon
 - **Formulas & Functions**:  `VLOOKUP`, `INDEX-MATCH`, `TEXT`, `SUM`, `AVERAGE`, `DATE`, and more.
 - **PivotTables & PivotCharts** for summarizing data visually and interactively.
 - **Slicers** for dynamic filtering by region, category, and salesperson by ID.
-- **Conditional Formatting** to highlight key performance indicators and trends.
 - **Data Cleaning & Transformation** using Excel’s built-in functions.
 - **Professional Dashboard Design** with a focus on clarity, usability, and layout.
 
